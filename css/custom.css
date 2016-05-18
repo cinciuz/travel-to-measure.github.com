@@ -422,7 +422,6 @@ ul.social-buttons li a:hover,ul.social-buttons li a:focus,ul.social-buttons li a
 
 .choice-services {
   background-color: #E0E8F0;
-  padding-bottom: 30px;
 }
 
 .choice-services h3 {
@@ -441,6 +440,11 @@ ul.social-buttons li a:hover,ul.social-buttons li a:focus,ul.social-buttons li a
 
 .right-divide {
   border-right: 2px gray solid;
+  height: 550px;
+}
+
+.padding-left {
+  padding-left: 50px;
 }
 
 @media (max-width:992px){
